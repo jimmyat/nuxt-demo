@@ -6,7 +6,7 @@
         Jenkins PoC
       </h1>
       <h2 class="subtitle">
-        I am a vue + nuxt demo site built from CI.
+        I am a vue + nuxt demo site built from CI. Version 1.0.1
       </h2>
       <div class="links">
         <a
